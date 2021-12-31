@@ -1,10 +1,18 @@
-trs = document.querySelectorAll('tr');
-c = ''
-trs.forEach((elem) => {
-  const [kana, kanji, romaji, english] = [...elem.children];
-  c += `"${english.innerText}": {
-    "kana": "${kana.innerText}",
-    "romaji": "${romaji.innerText}"
-    ${kanji.innerText ? `,"kanji" : "${kanji.innerText}"` : ''}
-  },`
-});
+# Uomo - Learn japanese browsing websites
+
+**Uomo** is a simple Chrome extension which replaces English words on websites
+with japanese equivelants. It uses vocabulary found in popular books like the
+Genki series. The extension allows you to choose which Genki chapters you would
+like to include.
+
+Note that the extension only replaces single words, not phrases, and several
+words have been ommitted to avoid confusion.
+
+## Installation
+
+Clone or download the repo, run `npm install` and then `npm run build`. The
+extension will be built in folder `extension`.
+
+You can then load the extension by going to
+[chrome://extensions](chrome://extensions), enabling "developer mode" (top right
+corner) and clicking "Load unpacked" to select the extension folder.

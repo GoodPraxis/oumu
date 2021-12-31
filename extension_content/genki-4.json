@@ -1,0 +1,224 @@
+{
+  "shopping": {
+    "kana": "かいもの",
+    "kanji": "買い物"
+  },
+  "class": {
+    "kana": "クラス"
+  },
+  "you": {
+    "kana": "あなた"
+  },
+  "dog": {
+    "kana": "いぬ",
+    "kanji": "犬"
+  },
+  "dogs": {
+    "kana": "いぬ",
+    "kanji": "犬"
+  },
+  "souvenir": {
+    "kana": "おみやげ",
+    "kanji": "お土産"
+  },
+  "child": {
+    "kana": "こども",
+    "kanji": "子供"
+  },
+  "rice": {
+    "kana": "ごはん",
+    "kanji": "御飯"
+  },
+  "meal": {
+    "kana": "ごはん",
+    "kanji": "御飯"
+  },
+  "meals": {
+    "kana": "ごはん",
+    "kanji": "御飯"
+  },
+  "picture": {
+    "kana": "しゃしん",
+    "kanji": "写真"
+  },
+  "pictures": {
+    "kana": "しゃしん",
+    "kanji": "写真"
+  },
+  "photograph": {
+    "kana": "しゃしん",
+    "kanji": "写真"
+  },
+  "desk": {
+    "kana": "つくえ",
+    "kanji": "机"
+  },
+  "letter": {
+    "kana": "てがみ",
+    "kanji": "手紙"
+  },
+  "cat": {
+    "kana": "ねこ",
+    "kanji": "猫"
+  },
+  "cats": {
+    "kana": "ねこ",
+    "kanji": "猫"
+  },
+  "bread": {
+    "kana": "パン"
+  },
+  "person": {
+    "kana": "ひと",
+    "kanji": "人"
+  },
+  "temple": {
+    "kana": "おてら",
+    "kanji": "お寺"
+  },
+  "park": {
+    "kana": "こうえん",
+    "kanji": "公園"
+  },
+  "supermarket": {
+    "kana": "スーパー",
+    "kanji": ""
+  },
+  "hospital": {
+    "kana": "びょういん",
+    "kanji": "病院"
+  },
+  "hotel": {
+    "kana": "ホテル",
+    "kanji": ""
+  },
+  "bookstore": {
+    "kana": "ほんや",
+    "kanji": "本屋"
+  },
+  "town": {
+    "kana": "まち",
+    "kanji": "町"
+  },
+  "city": {
+    "kana": "まち",
+    "kanji": "町"
+  },
+  "cities": {
+    "kana": "まち",
+    "kanji": "町"
+  },
+  "restaurant": {
+    "kana": "レストラン"
+  },
+  "yesterday": {
+    "kana": "きのう",
+    "kanji": "昨日"
+  },
+  "hour": {
+    "kana": "〜じかん",
+    "kanji": "〜時間"
+  },
+  "when": {
+    "kana": "とき",
+    "kanji": "時"
+  },
+  "Tuesday": {
+    "kana": "かようび",
+    "kanji": "火曜日"
+  },
+  "Wednesday": {
+    "kana": "すいようび",
+    "kanji": "水曜日"
+  },
+  "Thursday": {
+    "kana": "もくようび",
+    "kanji": "木曜日"
+  },
+  "Friday": {
+    "kana": "きんようび",
+    "kanji": "金曜日"
+  },
+  "meet": {
+    "kana": "あう",
+    "kanji": "会う"
+  },
+  "buy": {
+    "kana": "かう",
+    "kanji": "買う"
+  },
+  "write": {
+    "kana": "かく",
+    "kanji": "書く"
+  },
+  "wait": {
+    "kana": "まつ",
+    "kanji": "待つ"
+  },
+  "understand": {
+    "kana": "わかる"
+  },
+  "sorry": {
+    "kana": "ごめんなさい",
+    "kanji": ""
+  },
+  "therefore": {
+    "kana": "だから"
+  },
+  "many": {
+    "kana": "たくさん"
+  },
+  "why": {
+    "kana": "どうして",
+    "kanji": ""
+  },
+  "alone": {
+    "kana": "ひとりで",
+    "kanji": "一人で"
+  },
+  "right": {
+    "kana": "みぎ",
+    "kanji": "右"
+  },
+  "left": {
+    "kana": "ひだり",
+    "kanji": "左"
+  },
+  "front": {
+    "kana": "まえ",
+    "kanji": "前"
+  },
+  "back": {
+    "kana": "うしろ",
+    "kanji": "後ろ"
+  },
+  "inside": {
+    "kana": "なか",
+    "kanji": "中"
+  },
+  "under": {
+    "kana": "した",
+    "kanji": "下"
+  },
+  "near": {
+    "kana": "そば"
+  },
+  "next": {
+    "kana": "となり",
+    "kanji": "隣"
+  },
+  "between": {
+    "kana": "あいだ",
+    "kanji": "間"
+  },
+  "there": {
+    "kana": "そこ"
+  },
+  "here": {
+    "kana": "ここ"
+  },
+  "Monday": {
+    "kana": "げつようび",
+    "kanji": "月曜日"
+  }
+}

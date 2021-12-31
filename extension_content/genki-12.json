@@ -1,0 +1,117 @@
+{
+  "leg": {
+    "kana": "あし",
+    "kanji": "足"
+  },
+  "legs": {
+    "kana": "あし",
+    "kanji": "足"
+  },
+  "foot": {
+    "kana": "あし",
+    "kanji": "足"
+  },
+  "meaning": {
+    "kana": "いみ",
+    "kanji": "意味"
+  },
+  "stomach": {
+    "kana": "おなか"
+  },
+  "cold": {
+    "kana": "かぜ",
+    "kanji": "風"
+  },
+  "girlfriend": {
+    "kana": "かのじょ",
+    "kanji": "彼女"
+  },
+  "girlfriends": {
+    "kana": "かのじょ",
+    "kanji": "彼女"
+  },
+  "boyfriend": {
+    "kana": "かれ",
+    "kanji": "彼"
+  },
+  "boyfriends": {
+    "kana": "かれ",
+    "kanji": "彼"
+  },
+  "juice": {
+    "kana": "ジュース"
+  },
+  "cough": {
+    "kana": "せき",
+    "kanji": "咳"
+  },
+  "throat": {
+    "kana": "のど"
+  },
+  "tooth": {
+    "kana": "は",
+    "kanji": "歯"
+  },
+  "teeth": {
+    "kana": "は",
+    "kanji": "歯"
+  },
+  "flower": {
+    "kana": "はな",
+    "kanji": "花"
+  },
+  "flowers": {
+    "kana": "はな",
+    "kanji": "花"
+  },
+  "clothes": {
+    "kana": "ふく",
+    "kanji": "服"
+  },
+  "hangover": {
+    "kana": "ふつかよい",
+    "kanji": "二日酔い"
+  },
+  "homesickness": {
+    "kana": "ホームシック"
+  },
+  "snow": {
+    "kana": "ゆき",
+    "kanji": "雪"
+  },
+  "sweet": {
+    "kana": "あまい",
+    "kanji": "甘い"
+  },
+  "painful": {
+    "kana": "いたい",
+    "kanji": "痛い"
+  },
+  "hurtful": {
+    "kana": "いたい",
+    "kanji": "痛い"
+  },
+  "narrow": {
+    "kana": "せまい",
+    "kanji": "狭い"
+  },
+  "inconvenient": {
+    "kana": "つごうがわるい",
+    "kanji": "都合が悪い"
+  },
+  "bad": {
+    "kana": "わるい",
+    "kanji": "悪い"
+  },
+  "fantastic": {
+    "kana": "すてき",
+    "kanji": "素敵"
+  },
+  "worry": {
+    "kana": "しんぱいする",
+    "kanji": "心配する"
+  },
+  "always": {
+    "kana": "いつも"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "station": {
+    "kana": "えき",
+    "kanji": "駅"
+  },
+  "face": {
+    "kana": "かお",
+    "kanji": "顔"
+  },
+  "faces": {
+    "kana": "かお",
+    "kanji": "顔"
+  },
+  "season": {
+    "kana": "きせつ",
+    "kanji": "季節"
+  },
+  "seasons": {
+    "kana": "きせつ",
+    "kanji": "季節"
+  },
+  "soccer": {
+    "kana": "サッカー"
+  },
+  "football": {
+    "kana": "サッカー"
+  },
+  "shirt": {
+    "kana": "シャツ"
+  },
+  "shirts": {
+    "kana": "シャツ"
+  },
+  "life": {
+    "kana": "せいかつ",
+    "kanji": "生活"
+  },
+  "world": {
+    "kana": "せかい",
+    "kanji": "世界"
+  },
+  "worlds": {
+    "kana": "せかい",
+    "kanji": "世界"
+  },
+  "subway": {
+    "kana": "ちかてつ",
+    "kanji": "地下鉄"
+  },
+  "gloves": {
+    "kana": "てぶくろ",
+    "kanji": "手袋"
+  },
+  "barber's": {
+    "kana": "とこや",
+    "kanji": "床屋"
+  },
+  "spring": {
+    "kana": "はる",
+    "kanji": "春"
+  },
+  "pants": {
+    "kana": "パンツ"
+  },
+  "flight": {
+    "kana": "びん",
+    "kanji": "便"
+  },
+  "ship": {
+    "kana": "ふね",
+    "kanji": "船"
+  },
+  "boat": {
+    "kana": "ふね",
+    "kanji": "船"
+  },
+  "boats": {
+    "kana": "ふね",
+    "kanji": "船"
+  },
+  "baseball": {
+    "kana": "やきゅう",
+    "kanji": "野球"
+  },
+  "celebrity": {
+    "kana": "ゆうめいじん",
+    "kanji": "有名人"
+  },
+  "celebrities": {
+    "kana": "ゆうめいじん",
+    "kanji": "有名人"
+  },
+  "reservation": {
+    "kana": "よやく",
+    "kanji": "予約"
+  },
+  "apple": {
+    "kana": "りんご"
+  },
+  "apples": {
+    "kana": "りんご"
+  },
+  "warm": {
+    "kana": "あたたかい",
+    "kanji": "暖かい"
+  },
+  "slow": {
+    "kana": "おそい",
+    "kanji": "遅い"
+  },
+  "late": {
+    "kana": "おそい",
+    "kanji": "遅い"
+  },
+  "sleepy": {
+    "kana": "ねむい",
+    "kanji": "眠い"
+  },
+  "easy": {
+    "kana": "かんたん",
+    "kanji": "簡単"
+  },
+  "simple": {
+    "kana": "かんたん",
+    "kanji": "簡単"
+  },
+  "become": {
+    "kana": "なる"
+  },
+  "pay": {
+    "kana": "はらう",
+    "kanji": "払う"
+  },
+  "decide": {
+    "kana": "きめる",
+    "kanji": "決める"
+  },
+  "practice": {
+    "kana": "れんしゅうする",
+    "kanji": "練習する"
+  },
+  "best": {
+    "kana": "いちばん",
+    "kanji": "一番"
+  },
+  "how": {
+    "kana": "どうやって"
+  },
+  "which": {
+    "kana": "どちら"
+  }
+}

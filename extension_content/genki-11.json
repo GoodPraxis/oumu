@@ -1,0 +1,99 @@
+{
+  "snack": {
+    "kana": "おかし",
+    "kanji": "お菓子"
+  },
+  "snacks": {
+    "kana": "おかし",
+    "kanji": "お菓子"
+  },
+  "sweets": {
+    "kana": "おかし",
+    "kanji": "お菓子"
+  },
+  "boy": {
+    "kana": "おとこのこ",
+    "kanji": "男の子"
+  },
+  "boys": {
+    "kana": "おとこのこ",
+    "kanji": "男の子"
+  },
+  "toy": {
+    "kana": "おもちゃ"
+  },
+  "toys": {
+    "kana": "おもちゃ"
+  },
+  "girl": {
+    "kana": "おんなのこ",
+    "kanji": "女の子"
+  },
+  "girls": {
+    "kana": "おんなのこ",
+    "kanji": "女の子"
+  },
+  "singer": {
+    "kana": "かしゅ",
+    "kanji": "歌手"
+  },
+  "camp": {
+    "kana": "キャンプ"
+  },
+  "class": {
+    "kana": "じゅぎょう",
+    "kanji": "授業"
+  },
+  "future": {
+    "kana": "しょうらい",
+    "kanji": "将来"
+  },
+  "drive": {
+    "kana": "ドライブ"
+  },
+  "beer": {
+    "kana": "ビール"
+  },
+  "beers": {
+    "kana": "ビール"
+  },
+  "lake": {
+    "kana": "みずうみ",
+    "kanji": "湖"
+  },
+  "mountain": {
+    "kana": "やま",
+    "kanji": "山"
+  },
+  "dream": {
+    "kana": "ゆめ",
+    "kanji": "夢"
+  },
+  "roommate": {
+    "kana": "ルームメート"
+  },
+  "learn": {
+    "kana": "ならう",
+    "kanji": "習う"
+  },
+  "climb": {
+    "kana": "のぼる",
+    "kanji": "登る"
+  },
+  "quit": {
+    "kana": "やめる"
+  },
+  "introduce": {
+    "kana": "しょうかいする",
+    "kanji": "紹介する"
+  },
+  "very": {
+    "kana": "すごく"
+  },
+  "okay": {
+    "kana": "まあまあ"
+  },
+  "more": {
+    "kana": "もっと"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "money": {
+    "kana": "おかね",
+    "kanji": "お金"
+  },
+  "grandmother": {
+    "kana": "おばあさん"
+  },
+  "grandmothers": {
+    "kana": "おばあさん"
+  },
+  "bath": {
+    "kana": "おふろ",
+    "kanji": "お風呂"
+  },
+  "kanji": {
+    "kana": "かんじ",
+    "kanji": "漢字"
+  },
+  "textbook": {
+    "kana": "きょうかしょ",
+    "kanji": "教科書"
+  },
+  "next": {
+    "kana": "つぎ",
+    "kanji": "次"
+  },
+  "electricity": {
+    "kana": "でんき",
+    "kanji": "電気"
+  },
+  "train": {
+    "kana": "でんしゃ",
+    "kanji": "電車"
+  },
+  "baggage": {
+    "kana": "にもつ",
+    "kanji": "荷物"
+  },
+  "page": {
+    "kana": "ページ"
+  },
+  "pages": {
+    "kana": "ページ"
+  },
+  "window": {
+    "kana": "まど",
+    "kanji": "窓"
+  },
+  "night": {
+    "kana": "よる",
+    "kanji": "夜"
+  },
+  "hurry": {
+    "kana": "いそぐ",
+    "kanji": "急ぐ"
+  },
+  "erase": {
+    "kana": "けす",
+    "kanji": "消す"
+  },
+  "die": {
+    "kana": "しぬ",
+    "kanji": "死ぬ"
+  },
+  "smoke": {
+    "kana": "たばこをすう",
+    "kanji": "たばこを吸う"
+  },
+  "use": {
+    "kana": "つかう",
+    "kanji": "使う"
+  },
+  "help": {
+    "kana": "てつだう",
+    "kanji": "手伝う"
+  },
+  "enter": {
+    "kana": "はいる",
+    "kanji": "入る"
+  },
+  "carry": {
+    "kana": "もつ",
+    "kanji": "持つ"
+  },
+  "hold": {
+    "kana": "もつ",
+    "kanji": "持つ"
+  },
+  "open": {
+    "kana": "あける",
+    "kanji": "開ける"
+  },
+  "teach": {
+    "kana": "おしえる",
+    "kanji": "教える"
+  },
+  "borrow": {
+    "kana": "かりる",
+    "kanji": "借りる"
+  },
+  "close": {
+    "kana": "しめる",
+    "kanji": "閉める"
+  },
+  "forget": {
+    "kana": "わすれる",
+    "kanji": "忘れる"
+  },
+  "because": {
+    "kana": "〜から"
+  },
+  "Really?": {
+    "kana": "ほんとうですか",
+    "kanji": "本当ですか"
+  },
+  "slowly": {
+    "kana": "ゆっくり"
+  }
+}

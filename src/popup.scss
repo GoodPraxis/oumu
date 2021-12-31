@@ -1,0 +1,11 @@
+@import './colors.scss';
+
+body {
+  background: $green;
+  color: $navy;
+  font-weight: bold;
+}
+
+.settings {
+  width: 200px;
+}

@@ -1,0 +1,94 @@
+{
+  "apartment": {
+    "kana": "アパート"
+  },
+  "song": {
+    "kana": "うた",
+    "kanji": "歌"
+  },
+  "younger brother": {
+    "kana": "おとうと",
+    "kanji": "弟"
+  },
+  "man": {
+    "kana": "おとこのひと",
+    "kanji": "男の人"
+  },
+  "woman": {
+    "kana": "おんなのひと",
+    "kanji": "女の人"
+  },
+  "company": {
+    "kana": "かいしゃ",
+    "kanji": "会社"
+  },
+  "family": {
+    "kana": "かぞく",
+    "kanji": "家族"
+  },
+  "hair": {
+    "kana": "かみ",
+    "kanji": "髪"
+  },
+  "siblings": {
+    "kana": "きょうだい",
+    "kanji": "兄弟"
+  },
+  "country": {
+    "kana": "くに",
+    "kanji": "国"
+  },
+  "car": {
+    "kana": "くるま",
+    "kanji": "車"
+  },
+  "cafeteria": {
+    "kana": "しょくどう",
+    "kanji": "食堂"
+  },
+  "tshirt": {
+    "kana": "Tシャツ"
+  },
+  "eye": {
+    "kana": "め",
+    "kanji": "目"
+  },
+  "glasses": {
+    "kana": "めがね",
+    "kanji": "眼鏡"
+  },
+  "smart": {
+    "kana": "あたまがいい",
+    "kanji": "頭がいい"
+  },
+  "clever": {
+    "kana": "あたまがいい",
+    "kanji": "頭がいい"
+  },
+  "cute": {
+    "kana": "かわいい"
+  },
+  "tall": {
+    "kana": "せがたかい",
+    "kanji": "背が高い"
+  },
+  "long": {
+    "kana": "ながい",
+    "kanji": "長い"
+  },
+  "fast": {
+    "kana": "はやい",
+    "kanji": "早い"
+  },
+  "convenient": {
+    "kana": "べんり",
+    "kanji": "便利"
+  },
+  "sing": {
+    "kana": "うたう",
+    "kanji": "歌う"
+  },
+  "but": {
+    "kana": "が"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "color": {
+    "kana": "いろ",
+    "kanji": "色"
+  },
+  "colors": {
+    "kana": "いろ",
+    "kanji": "色"
+  },
+  "colour": {
+    "kana": "いろ",
+    "kanji": "色"
+  },
+  "colours": {
+    "kana": "いろ",
+    "kanji": "色"
+  },
+  "spa": {
+    "kana": "おんせん",
+    "kanji": "温泉"
+  },
+  "Kabuki": {
+    "kana": "かぶき",
+    "kanji": ""
+  },
+  "guitar": {
+    "kana": "ギター",
+    "kanji": ""
+  },
+  "medicine": {
+    "kana": "くすり",
+    "kanji": "薬"
+  },
+  "concert": {
+    "kana": "コンサート",
+    "kanji": ""
+  },
+  "essay": {
+    "kana": "さくぶん",
+    "kanji": "作文"
+  },
+  "exam": {
+    "kana": "しけん",
+    "kanji": "試験"
+  },
+  "ski": {
+    "kana": "スキー",
+    "kanji": ""
+  },
+  "word": {
+    "kana": "たんご",
+    "kanji": "単語"
+  },
+  "words": {
+    "kana": "たんご",
+    "kanji": "単語"
+  },
+  "vocabulary": {
+    "kana": "たんご",
+    "kanji": "単語"
+  },
+  "piano": {
+    "kana": "ピアノ",
+    "kanji": ""
+  },
+  "illness": {
+    "kana": "びょうき",
+    "kanji": "病気"
+  },
+  "sickness": {
+    "kana": "びょうき",
+    "kanji": "病気"
+  },
+  "blue": {
+    "kana": "あおい",
+    "kanji": "青い"
+  },
+  "red": {
+    "kana": "あかい",
+    "kanji": "赤い"
+  },
+  "black": {
+    "kana": "くろい",
+    "kanji": "黒い"
+  },
+  "lonely": {
+    "kana": "さびしい",
+    "kanji": "寂しい"
+  },
+  "white": {
+    "kana": "しろい",
+    "kanji": "白い"
+  },
+  "young": {
+    "kana": "わかい",
+    "kanji": "若い"
+  },
+  "mean-spirited": {
+    "kana": "いじわる",
+    "kanji": "意地悪"
+  },
+  "memorize": {
+    "kana": "おぼえる",
+    "kanji": "覚える"
+  },
+  "all": {
+    "kana": "みんな",
+    "kanji": ""
+  },
+  "already": {
+    "kana": "もう",
+    "kanji": ""
+  },
+  "one": {
+    "kana": "ひとつ",
+    "kanji": "一つ"
+  },
+  "two": {
+    "kana": "ふたつ",
+    "kanji": "二つ"
+  },
+  "three": {
+    "kana": "みっつ",
+    "kanji": "三つ"
+  },
+  "four": {
+    "kana": "よっつ",
+    "kanji": "四つ"
+  },
+  "five": {
+    "kana": "いつつ",
+    "kanji": "五つ"
+  },
+  "six": {
+    "kana": "むっつ",
+    "kanji": "六つ"
+  },
+  "seven": {
+    "kana": "ななつ",
+    "kanji": "七つ"
+  },
+  "eight": {
+    "kana": "やっつ",
+    "kanji": "八つ"
+  },
+  "nine": {
+    "kana": "ここのつ",
+    "kanji": "九つ"
+  },
+  "ten": {
+    "kana": "とお",
+    "kanji": "十"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "movie": {
+    "kana": "えいが",
+    "romaji": "eega",
+    "kanji": "映画"
+  },
+  "movies": {
+    "kana": "えいが",
+    "romaji": "eega",
+    "kanji": "映画"
+  },
+  "music": {
+    "kana": "おんがく",
+    "romaji": "ongaku",
+    "kanji": "音楽"
+  },
+  "magazine": {
+    "kana": "ざっし",
+    "romaji": "",
+    "kanji": "雑誌"
+  },
+  "sports": {
+    "kana": "スポーツ",
+    "romaji": ""
+  },
+  "tennis": {
+    "kana": "テニス",
+    "romaji": "tenisu"
+  },
+  "tv": {
+    "kana": "テレビ",
+    "romaji": "terebi"
+  },
+  "breakfast": {
+    "kana": "あさごはん",
+    "romaji": "",
+    "kanji": "朝御飯"
+  },
+  "alcohol": {
+    "kana": "おさけ",
+    "romaji": "",
+    "kanji": "お酒"
+  },
+  "coffee": {
+    "kana": "コーヒー",
+    "romaji": "koohii"
+  },
+  "dinner": {
+    "kana": "ばんごはん",
+    "romaji": "",
+    "kanji": "晩御飯"
+  },
+  "hamburger": {
+    "kana": "ハンバーガー",
+    "romaji": ""
+  },
+  "lunch": {
+    "kana": "ひるごはん",
+    "romaji": "",
+    "kanji": "昼御飯"
+  },
+  "water": {
+    "kana": "みず",
+    "romaji": "",
+    "kanji": "水"
+  },
+  "home": {
+    "kana": "うち",
+    "romaji": "uchi",
+    "kanji": "家"
+  },
+  "homes": {
+    "kana": "うち",
+    "romaji": "uchi",
+    "kanji": "家"
+  },
+  "house": {
+    "kana": "うち",
+    "romaji": "uchi",
+    "kanji": "家"
+  },
+  "houses": {
+    "kana": "うち",
+    "romaji": "uchi",
+    "kanji": "家"
+  },
+  "school": {
+    "kana": "がっこう",
+    "romaji": "",
+    "kanji": "学校"
+  },
+  "schools": {
+    "kana": "がっこう",
+    "romaji": "",
+    "kanji": "学校"
+  },
+  "morning": {
+    "kana": "あさ",
+    "romaji": "asa",
+    "kanji": "朝"
+  },
+  "tomorrow": {
+    "kana": "あした",
+    "romaji": "ashita"
+  },
+  "today": {
+    "kana": "きょう",
+    "romaji": "",
+    "kanji": "今日"
+  },
+  "tonight": {
+    "kana": "こんばん",
+    "romaji": "",
+    "kanji": "今晩"
+  },
+  "weekend": {
+    "kana": "しゅうまつ",
+    "romaji": "shuumatsu",
+    "kanji": "週末"
+  },
+  "saturday": {
+    "kana": "どようび",
+    "romaji": "doyoubi",
+    "kanji": "土曜日"
+  },
+  "sunday": {
+    "kana": "にちようび",
+    "romaji": "nichiyoubi",
+    "kanji": "日曜日"
+  },
+  "return": {
+    "kana": "かえる",
+    "romaji": "kaeru",
+    "kanji": "帰る"
+  },
+  "listen": {
+    "kana": "きく",
+    "romaji": "saku",
+    "kanji": "聞く"
+  },
+  "drink": {
+    "kana": "のむ",
+    "romaji": "",
+    "kanji": "飲む"
+  },
+  "talk": {
+    "kana": "はなす",
+    "romaji": "",
+    "kanji": "話す"
+  },
+  "read": {
+    "kana": "よむ",
+    "romaji": "",
+    "kanji": "読む"
+  },
+  "eat": {
+    "kana": "たべる",
+    "romaji": "",
+    "kanji": "食べる"
+  },
+  "sleep": {
+    "kana": "ねる",
+    "romaji": "",
+    "kanji": "寝る"
+  },
+  "come": {
+    "kana": "くる",
+    "romaji": "",
+    "kanji": "来る"
+  },
+  "study": {
+    "kana": "べんきょうする",
+    "romaji": "",
+    "kanji": "勉強する"
+  },
+  "good": {
+    "kana": "いい",
+    "romaji": "ii"
+  },
+  "early": {
+    "kana": "はやい",
+    "romaji": "hayai",
+    "kanji": "早い"
+  },
+  "usually": {
+    "kana": "たいてい",
+    "romaji": "",
+    "kanji": "大抵"
+  },
+  "sometimes": {
+    "kana": "ときどき",
+    "romaji": "tokidoki",
+    "kanji": "時々"
+  },
+  "often": {
+    "kana": "よく",
+    "romaji": ""
+  },
+  "but": {
+    "kana": "でも",
+    "romaji": "demo"
+  }
+}

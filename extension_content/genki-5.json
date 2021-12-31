@@ -1,0 +1,166 @@
+{
+  "sea": {
+    "kana": "うみ",
+    "kanji": "海"
+  },
+  "stamps": {
+    "kana": "きって",
+    "kanji": "切手"
+  },
+  "ticket": {
+    "kana": "きっぷ",
+    "kanji": "切符"
+  },
+  "tickets": {
+    "kana": "きっぷ",
+    "kanji": "切符"
+  },
+  "surfing": {
+    "kana": "サーフィン"
+  },
+  "homework": {
+    "kana": "しゅくだい",
+    "kanji": "宿題"
+  },
+  "food": {
+    "kana": "たべもの",
+    "kanji": "食べ物"
+  },
+  "birthday": {
+    "kana": "たんじょうび",
+    "kanji": "誕生日"
+  },
+  "test": {
+    "kana": "テスト"
+  },
+  "tests": {
+    "kana": "テスト"
+  },
+  "weather": {
+    "kana": "てんき",
+    "kanji": "天気"
+  },
+  "drink": {
+    "kana": "のみもの",
+    "kanji": "飲み物"
+  },
+  "postcard": {
+    "kana": "はがき",
+    "kanji": "葉書"
+  },
+  "bus": {
+    "kana": "バス"
+  },
+  "airplane": {
+    "kana": "ひこうき",
+    "kanji": "飛行機"
+  },
+  "room": {
+    "kana": "へや",
+    "kanji": "部屋"
+  },
+  "rooms": {
+    "kana": "へや",
+    "kanji": "部屋"
+  },
+  "holiday": {
+    "kana": "やすみ",
+    "kanji": "休み"
+  },
+  "absence": {
+    "kana": "やすみ",
+    "kanji": "休み"
+  },
+  "travel": {
+    "kana": "りょこう",
+    "kanji": "旅行"
+  },
+  "new": {
+    "kana": "あたらしい",
+    "kanji": "新しい"
+  },
+  "large": {
+    "kana": "おおきい",
+    "kanji": "大きい"
+  },
+  "interesting": {
+    "kana": "おもしろい",
+    "kanji": "面白い"
+  },
+  "frightening": {
+    "kana": "こわい",
+    "kanji": "怖い"
+  },
+  "fun": {
+    "kana": "たのしい",
+    "kanji": "楽しい"
+  },
+  "small": {
+    "kana": "ちいさい",
+    "kanji": "小さい"
+  },
+  "boring": {
+    "kana": "つまらない"
+  },
+  "difficult": {
+    "kana": "むずかしい",
+    "kanji": "難しい"
+  },
+  "inexpensive": {
+    "kana": "やすい",
+    "kanji": "安い"
+  },
+  "cheap": {
+    "kana": "やすい",
+    "kanji": "安い"
+  },
+  "beautiful": {
+    "kana": "きれい（な）"
+  },
+  "clean": {
+    "kana": "きれい（な）"
+  },
+  "healthy": {
+    "kana": "げんき（な）",
+    "kanji": "元気"
+  },
+  "energetic": {
+    "kana": "げんき（な）",
+    "kanji": "元気"
+  },
+  "quiet": {
+    "kana": "しずか（な）",
+    "kanji": "静か"
+  },
+  "hate": {
+    "kana": "だいきらい（な）",
+    "kanji": "大嫌い"
+  },
+  "lively": {
+    "kana": "にぎやか（な）"
+  },
+  "handsome": {
+    "kana": "ハンサム（な）"
+  },
+  "swim": {
+    "kana": "およぐ",
+    "kanji": "泳ぐ"
+  },
+  "ask": {
+    "kana": "きく",
+    "kanji": "聞く"
+  },
+  "perform": {
+    "kana": "やる"
+  },
+  "do": {
+    "kana": "やる"
+  },
+  "together": {
+    "kana": "いっしょに",
+    "kanji": "一緒に"
+  },
+  "very": {
+    "kana": "とても"
+  }
+}

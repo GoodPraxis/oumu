@@ -1,0 +1,118 @@
+{
+  "rain": {
+    "kana": "あめ",
+    "kanji": "雨"
+  },
+  "camera": {
+    "kana": "カメラ"
+  },
+  "karaoke": {
+    "kana": "カラオケ"
+  },
+  "air": {
+    "kana": "くうき",
+    "kanji": "空気"
+  },
+  "job": {
+    "kana": "しごと",
+    "kanji": "仕事"
+  },
+  "occupation": {
+    "kana": "しごと",
+    "kanji": "仕事"
+  },
+  "disco": {
+    "kana": "ディスコ"
+  },
+  "place": {
+    "kana": "ところ",
+    "kanji": "所"
+  },
+  "tomato": {
+    "kana": "トマト"
+  },
+  "tomatos": {
+    "kana": "トマト"
+  },
+  "summer": {
+    "kana": "なつ",
+    "kanji": "夏"
+  },
+  "something": {
+    "kana": "なにか",
+    "kanji": "何か"
+  },
+  "party": {
+    "kana": "パーティー"
+  },
+  "barbecue": {
+    "kana": "バーベキュー"
+  },
+  "chopsticks": {
+    "kana": "はし"
+  },
+  "winter": {
+    "kana": "ふゆ",
+    "kanji": "冬"
+  },
+  "homestay": {
+    "kana": "ホームステイ"
+  },
+  "skillful": {
+    "kana": "じょうず",
+    "kanji": "上手"
+  },
+  "clumsy": {
+    "kana": "へた",
+    "kanji": "下手"
+  },
+  "famous": {
+    "kana": "ゆうめい",
+    "kanji": "有名"
+  },
+  "wash": {
+    "kana": "あらう",
+    "kanji": "洗う"
+  },
+  "say": {
+    "kana": "いう",
+    "kanji": "言う"
+  },
+  "need": {
+    "kana": "いる"
+  },
+  "think": {
+    "kana": "おもう",
+    "kanji": "思う"
+  },
+  "cut": {
+    "kana": "きる",
+    "kanji": "切る"
+  },
+  "make": {
+    "kana": "つくる",
+    "kanji": "作る"
+  },
+  "begin": {
+    "kana": "はじめる",
+    "kanji": "始める"
+  },
+  "drive": {
+    "kana": "うんてんする",
+    "kanji": "運転する"
+  },
+  "clean": {
+    "kana": "そうじする",
+    "kanji": "掃除する"
+  },
+  "cook": {
+    "kana": "りょうりする",
+    "kanji": "料理する"
+  },
+  "no": {
+    "kana": "ううん"
+  },
+  "yes": {
+    "kana": "うん"
+  }
+}

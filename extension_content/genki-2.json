@@ -1,0 +1,153 @@
+{
+  "delicious": {
+    "kana": "おいしい",
+    "romaji": "oishii"
+  },
+  "fish": {
+    "kana": "さかな",
+    "romaji": "sakana",
+    "kanji": "魚"
+  },
+  "meat": {
+    "kana": "にく",
+    "romaji": "niku",
+    "kanji": "肉"
+  },
+  "menu": {
+    "kana": "メニュー",
+    "romaji": "menyuu"
+  },
+  "vegetable": {
+    "kana": "やさい",
+    "romaji": "yasai",
+    "kanji": "野菜"
+  },
+  "pencil": {
+    "kana": "えんぴつ",
+    "romaji": "enpitsu",
+    "kanji": "鉛筆"
+  },
+  "umbrella": {
+    "kana": "かさ",
+    "romaji": "kasa",
+    "kanji": "傘"
+  },
+  "bag": {
+    "kana": "かばん",
+    "romaji": "kaban"
+  },
+  "shoes": {
+    "kana": "くつ",
+    "romaji": "kutsu",
+    "kanji": "靴"
+  },
+  "wallet": {
+    "kana": "さいふ",
+    "romaji": "saifu",
+    "kanji": "財布"
+  },
+  "wallets": {
+    "kana": "さいふ",
+    "romaji": "saifu",
+    "kanji": "財布"
+  },
+  "jeans": {
+    "kana": "ジーンズ",
+    "romaji": "jiinzu"
+  },
+  "dictionary": {
+    "kana": "じしょ",
+    "romaji": "jisho",
+    "kanji": "辞書"
+  },
+  "bicycle": {
+    "kana": "じてんしゃ",
+    "romaji": "jitensha",
+    "kanji": "自転車"
+  },
+  "newspaper": {
+    "kana": "しんぶん",
+    "romaji": "shinbun",
+    "kanji": "新聞"
+  },
+  "newspapers": {
+    "kana": "しんぶん",
+    "romaji": "shinbun",
+    "kanji": "新聞"
+  },
+  "tape": {
+    "kana": "テープ",
+    "romaji": "teepu"
+  },
+  "clock": {
+    "kana": "とけい",
+    "romaji": "tokee",
+    "kanji": "時計"
+  },
+  "sweatshirt": {
+    "kana": "トレーナー",
+    "romaji": "toreenaa"
+  },
+  "notebook": {
+    "kana": "ノート",
+    "romaji": "nooto"
+  },
+  "pen": {
+    "kana": "ペン",
+    "romaji": "pen"
+  },
+  "hat": {
+    "kana": "ぼうし",
+    "romaji": "booshi",
+    "kanji": "帽子"
+  },
+  "book": {
+    "kana": "ほん",
+    "romaji": "hon",
+    "kanji": "本"
+  },
+  "books": {
+    "kana": "ほん",
+    "romaji": "hon",
+    "kanji": "本"
+  },
+  "restroom": {
+    "kana": "おてあらい",
+    "romaji": "otearai",
+    "kanji": "お手洗い"
+  },
+  "cafe": {
+    "kana": "きっさてん",
+    "romaji": "kissaten",
+    "kanji": "喫茶店"
+  },
+  "bank": {
+    "kana": "ぎんこう",
+    "romaji": "ginkoo",
+    "kanji": "銀行"
+  },
+  "library": {
+    "kana": "としょかん",
+    "romaji": "toshokan",
+    "kanji": "図書館"
+  },
+  "economics": {
+    "kana": "けいざい",
+    "romaji": "keezai",
+    "kanji": "経済"
+  },
+  "yen": {
+    "kana": "〜えん",
+    "romaji": "...en",
+    "kanji": "〜円"
+  },
+  "expensive": {
+    "kana": "たかい",
+    "romaji": "takai",
+    "kanji": "高い"
+  },
+  "thanks": {
+    "kana": "どうも",
+    "romaji": "doomo"
+  }
+}

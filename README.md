@@ -12,6 +12,11 @@ words have been ommitted to avoid confusion.
 
 ![Screenshot](screen1.png)
 
+The extension works with nearly every website and webapp, including Twitter,
+Facebook and Mastodon!
+
+![Screenshot](screen2.png)
+
 ## Installation
 
 Clone or download the repo, run `npm install` and then `npm run build`. The

@@ -1,5 +1,7 @@
 # Uomo - Learn Japanese browsing websites
 
+![Logo](extension_content/48-icon.png)
+
 **Uomo** is a simple Chrome extension which replaces English words on websites
 with Japanese equivelants. It uses vocabulary found in popular books like the
 Genki series. The extension allows you to choose which Genki chapters you would

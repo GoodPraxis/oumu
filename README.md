@@ -25,3 +25,14 @@ extension will be built in folder `extension`.
 You can then load the extension by going to
 [chrome://extensions](chrome://extensions), enabling "developer mode" (top right
 corner) and clicking "Load unpacked" to select the extension folder.
+
+### Chrome Web Store
+
+⚠️ The extension is in the process of being reviewed and approved for the
+[Chrome Web Store](https://chrome.google.com/webstore/category/extensions).
+
+## Roadmap
+Things which are planned to be added in the future:
+- Ability to whitelist/blackilist sites
+- Custom word lists
+- Romaji for all words

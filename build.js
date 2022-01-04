@@ -11,7 +11,7 @@ const manifest = {
   name: 'Uomo',
   version,
   description: 'Uomo helps you learn Japanese by replacing words on websites',
-  permissions: ['declarativeContent', 'storage', '<all_urls>'],
+  permissions: ['storage', '<all_urls>'],
   browser_action: {
     default_popup: 'popup.html',
   },

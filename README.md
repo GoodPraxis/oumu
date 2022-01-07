@@ -19,6 +19,12 @@ Facebook and Mastodon!
 
 ## Installation
 
+### Chrome Web Store
+
+You can install the extension via the [Chrome Web Store](https://chrome.google.com/webstore/detail/uomo/kkhahmacbkjlohaicgacpjnbbcfldljk).
+
+### Manual installation
+
 Clone or download the repo, run `npm install` and then `npm run build`. The
 extension will be built in folder `extension`.
 
@@ -26,10 +32,9 @@ You can then load the extension by going to
 [chrome://extensions](chrome://extensions), enabling "developer mode" (top right
 corner) and clicking "Load unpacked" to select the extension folder.
 
-### Chrome Web Store
+## Usage
 
-⚠️ The extension is in the process of being reviewed and approved for the
-[Chrome Web Store](https://chrome.google.com/webstore/category/extensions).
+Click on the extension icon to enable/disable text replacement, and to choose the chapters you would like to enable.
 
 ## Roadmap
 Things which are planned to be added in the future:

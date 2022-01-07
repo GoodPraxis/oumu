@@ -8,11 +8,6 @@ const UOMO_CLASS = 'uomo-word';
 const DEBOUNCE_TIME = 100;
 const ELEMENT_SELECTOR = 'p, span, a, h1, h2, h3, h4, h5, li, .thumbcaption';
 
-const DEFAULT_SETTINGS = {
-  enabled: true,
-  'genki-1': true,
-};
-
 interface processingResult {
   isWithReplacements: boolean
   fragment: DocumentFragment
@@ -79,21 +74,13 @@ const prepareTextFragmentFromTextNode = (node: Node): processingResult => {
 };
 
 const getIsEnabled = () => new Promise((resolve) => {
-  chrome.storage.sync.get('enabled', (settings) => resolve(settings.enabled));
-});
-
-const setDefaultSettings = () => new Promise((resolve) => {
-  chrome.storage.sync.set(DEFAULT_SETTINGS, () => resolve(null));
+  chrome.storage.sync.get({ enabled: true }, (settings) => resolve(settings.enabled));
 });
 
 window.addEventListener('load', async () => {
   const enabled = await getIsEnabled();
   if (enabled === false) {
     return;
-  }
-
-  if (enabled === undefined) {
-    await setDefaultSettings();
   }
 
   installTooltip();

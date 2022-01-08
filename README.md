@@ -44,6 +44,9 @@ Things which are planned to be added in the future:
 - Romaji for all words
 
 ## Changelog
+### 0.1.1
+* Update dependencies
+* Update `.eslintrc` to use `@typescript-eslint/indent`
 ### 0.1.0
 * Add blacklisted elements to avoid issues on certain websites (e.g. Reddit's
 and Medium's WYSIWYG editor)

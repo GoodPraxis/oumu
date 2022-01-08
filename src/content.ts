@@ -7,6 +7,7 @@ const UOMO_ELEMENT = 'SPAN';
 const UOMO_CLASS = 'uomo-word';
 const DEBOUNCE_TIME = 100;
 const ELEMENT_SELECTOR = 'p, span, a, h1, h2, h3, h4, h5, li, .thumbcaption';
+const NODE_BLACKLIST = '.DraftEditor-root, [contenteditable="true"]';
 
 interface processingResult {
   isWithReplacements: boolean
@@ -90,6 +91,14 @@ window.addEventListener('load', async () => {
   let debounceTimeout: number;
   let observer: IntersectionObserver;
 
+  let nodeBlacklist : HTMLElement[] = [];
+
+  const updateBlacklist = () => {
+    nodeBlacklist = Array.from(document.querySelectorAll(NODE_BLACKLIST));
+  };
+
+  updateBlacklist();
+
   const updateObservedElements = () => {
     [...document.querySelectorAll(ELEMENT_SELECTOR)]
       .filter((elem) => elem instanceof HTMLElement
@@ -99,13 +108,20 @@ window.addEventListener('load', async () => {
 
   const mutObserver = new MutationObserver(() => {
     clearTimeout(debounceTimeout);
-    debounceTimeout = setTimeout(() => updateObservedElements(), DEBOUNCE_TIME);
+    debounceTimeout = setTimeout(() => {
+      updateObservedElements();
+      updateBlacklist();
+    }, DEBOUNCE_TIME);
   });
 
   observer = new IntersectionObserver((entries, intersectionObserver) => {
     mutObserver.disconnect();
     entries.filter(({ isIntersecting }) => isIntersecting).forEach(({ target }) => {
       if (target instanceof HTMLElement) {
+        // If target is contained by a blacklisted element, return
+        if (nodeBlacklist.some((node) => node.contains(target))) {
+          return;
+        }
         let textNodesUpdated = false;
 
         intersectionObserver.unobserve(target);

@@ -34,10 +34,20 @@ corner) and clicking "Load unpacked" to select the extension folder.
 
 ## Usage
 
-Click on the extension icon to enable/disable text replacement, and to choose the chapters you would like to enable.
+Click on the extension icon to enable/disable text replacement, and to choose
+the chapters you would like to enable.
 
 ## Roadmap
 Things which are planned to be added in the future:
 - Ability to whitelist/blackilist sites
 - Custom word lists
 - Romaji for all words
+
+## Changelog
+### 0.1.0
+* Add blacklisted elements to avoid issues on certain websites (e.g. Reddit's
+and Medium's WYSIWYG editor)
+### 0.0.2
+* Improve the way default settings are created
+### 0.0.1
+* Initial release

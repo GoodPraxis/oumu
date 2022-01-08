@@ -21,6 +21,9 @@ module.exports = {
   rules: {
     'import/extensions': 'off',
     'linebreak-style': ['error', process.platform === 'win32' ? 'windows' : 'unix'],
+    indent: 'off',
+    '@typescript-eslint/indent': ['error', 2],
+
   },
   settings: {
     'import/resolver': {

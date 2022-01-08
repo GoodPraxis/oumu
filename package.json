@@ -1,6 +1,6 @@
 {
   "name": "uomo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Language learning tool",
   "main": "content.js",
   "scripts": {
@@ -10,15 +10,15 @@
   "author": "",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
-    "@types/chrome": "0.0.148",
-    "@typescript-eslint/eslint-plugin": "^4.28.5",
-    "@typescript-eslint/parser": "^4.28.5",
-    "esbuild": "^0.12.15",
-    "esbuild-plugin-sass": "^0.5.2",
-    "eslint": "^7.31.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.23.4",
+    "@types/chrome": "^0.0.175",
+    "@typescript-eslint/eslint-plugin": "^5.9.0",
+    "@typescript-eslint/parser": "^5.9.0",
+    "esbuild": "^0.14.10",
+    "esbuild-plugin-sass": "^0.7.0",
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
     "fs-extra": "^10.0.0",
-    "typescript": "^4.3.5"
+    "typescript": "^4.5.4"
   }
 }

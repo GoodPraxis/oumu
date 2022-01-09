@@ -44,6 +44,8 @@ Things which are planned to be added in the future:
 - Romaji for all words
 
 ## Changelog
+### 0.2.0
+* Change package and extension name so it's less confusing
 ### 0.1.1
 * Update dependencies
 * Update `.eslintrc` to use `@typescript-eslint/indent`

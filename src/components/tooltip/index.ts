@@ -1,7 +1,7 @@
 import './tooltip.scss';
 
 const TOOLTIP_ELEMENT_NAME = 'DIV';
-const CLASS_MAIN = 'uomo-tooltip';
+const CLASS_MAIN = 'oumu-tooltip';
 const CLASS_IS_VISIBLE = 'is-visible';
 
 const tooltipContainer = document.createElement(TOOLTIP_ELEMENT_NAME);
@@ -34,7 +34,7 @@ const hideTooltip = () => {
 const onMouseOver = (event: Event) => {
   if (event && event.target) {
     const target = event.target as HTMLElement;
-    if (target.classList.contains('uomo-word')) {
+    if (target.classList.contains('oumu-word')) {
       const {
         english, kanji, kana, romaji,
       } = target.dataset;

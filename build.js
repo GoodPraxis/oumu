@@ -8,9 +8,9 @@ const OUTPUT_DIR = './extension';
 
 const manifest = {
   manifest_version: 2,
-  name: 'Uomo',
+  name: 'Oumu',
   version,
-  description: 'Uomo helps you learn Japanese by replacing words on websites',
+  description: 'Oumu helps you learn Japanese by replacing words on websites',
   permissions: ['storage', '<all_urls>'],
   browser_action: {
     default_popup: 'popup.html',

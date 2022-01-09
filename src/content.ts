@@ -4,7 +4,7 @@ import getData, { WordEntries } from './components/data-provider';
 
 const MUTATION_CONFIG = { childList: true, subtree: true };
 const UOMO_ELEMENT = 'SPAN';
-const UOMO_CLASS = 'uomo-word';
+const UOMO_CLASS = 'oumu-word';
 const DEBOUNCE_TIME = 100;
 const ELEMENT_SELECTOR = 'p, span, a, h1, h2, h3, h4, h5, li, .thumbcaption';
 const NODE_BLACKLIST = '.DraftEditor-root, [contenteditable="true"]';
@@ -58,7 +58,7 @@ const prepareTextFragmentFromTextNode = (node: Node): processingResult => {
       }
       const phrase = kanji || kana;
       span.innerText = phrase;
-      span.dataset.uomoProcessed = '';
+      span.dataset.oumuProcessed = '';
       span.classList.add(UOMO_CLASS);
       fragment.append(span);
       if (piece.length > word.length + wordIndex) {
@@ -102,7 +102,7 @@ window.addEventListener('load', async () => {
   const updateObservedElements = () => {
     [...document.querySelectorAll(ELEMENT_SELECTOR)]
       .filter((elem) => elem instanceof HTMLElement
-          && elem.dataset.uomoProcessed !== '')
+          && elem.dataset.oumuProcessed !== '')
       .forEach((p) => observer.observe(p));
   };
 
@@ -146,7 +146,7 @@ window.addEventListener('load', async () => {
         });
 
         // eslint-disable-next-line no-param-reassign
-        target.dataset.uomoProcessed = '';
+        target.dataset.oumuProcessed = '';
 
         // Only replace children if necessary so we don't break much
         if (textNodesUpdated) {

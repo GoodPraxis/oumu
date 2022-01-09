@@ -1,6 +1,6 @@
 @import '../../colors.scss';
 
-.uomo-tooltip {
+.oumu-tooltip {
   color: $black;
   background: white;
   position: fixed;
@@ -19,7 +19,7 @@
   }
 }
 
-.uomo-tooltip-word {
+.oumu-tooltip-word {
   font-weight: bold;
   border-bottom: 2px solid $green;
   margin-bottom: .5em;

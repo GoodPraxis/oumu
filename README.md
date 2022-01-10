@@ -17,6 +17,8 @@ Facebook and Mastodon!
 
 ![Screenshot](screen2.png)
 
+![Screenshot](screen3.png)
+
 ## Installation
 
 ### Chrome Web Store

@@ -1,3 +1,5 @@
+import getSettings from '../settings';
+
 export interface WordEntries {
   [key: string]: {
     kana: string
@@ -6,34 +8,20 @@ export interface WordEntries {
   }
 }
 
-const FILES = {
-  'genki-1': true,
-  'genki-2': true,
-  'genki-3': true,
-  'genki-4': true,
-  'genki-5': false,
-  'genki-6': false,
-  'genki-7': false,
-  'genki-8': false,
-  'genki-9': false,
-  'genki-10': false,
-  'genki-11': false,
-  'genki-12': false,
-};
+const EXTENSION = '.json';
 
-const getSettings = (): Promise<{ [key: string]: any }> => new Promise(
-  (resolve) => {
-    chrome.storage.sync.get(FILES, resolve);
-  },
-);
+const FILES = [
+  'genki-1', 'genki-2', 'genki-3', 'genki-4', 'genki-5', 'genki-6', 'genki-7',
+  'genki-8', 'genki-9', 'genki-10', 'genki-11', 'genki-12',
+];
 
 const getData = async () : Promise<WordEntries> => {
   let data = {};
   const settings = await getSettings();
-  const requestedFiles = Object.keys(FILES).filter((file) => settings[file]);
+  const requestedFiles = FILES.filter((file) => settings[file]);
 
   const appendData = async (file: string) => {
-    const response = await fetch(chrome.runtime.getURL(`${file}.json`));
+    const response = await fetch(chrome.runtime.getURL(file + EXTENSION));
     const newData = await response.json();
     data = { ...data, ...newData };
   };

@@ -3,11 +3,13 @@ import './tooltip.scss';
 const TOOLTIP_ELEMENT_NAME = 'DIV';
 const CLASS_MAIN = 'oumu-tooltip';
 const CLASS_IS_VISIBLE = 'is-visible';
+const CLASS_WORD = 'oumu-word';
 
 const tooltipContainer = document.createElement(TOOLTIP_ELEMENT_NAME);
 const tooltipWord = document.createElement(TOOLTIP_ELEMENT_NAME);
 const tooltipDescription = document.createElement(TOOLTIP_ELEMENT_NAME);
 
+// A single DOM element is created and reused to privde tooltip functionality
 const setupContainer = () => {
   tooltipContainer.classList.add(CLASS_MAIN);
   tooltipWord.classList.add(`${CLASS_MAIN}-word`);
@@ -34,13 +36,14 @@ const hideTooltip = () => {
 const onMouseOver = (event: Event) => {
   if (event && event.target) {
     const target = event.target as HTMLElement;
-    if (target.classList.contains('oumu-word')) {
+    if (target.classList.contains(CLASS_WORD)) {
       const {
         english, kanji, kana, romaji,
       } = target.dataset;
       showTooltip(
         english || '',
-        `${kanji ? kana : ''}${romaji ? ` (${romaji})` : ''}`, target,
+        `${kanji ? kana : ''}${romaji ? ` (${romaji})` : ''}`,
+        target,
       );
     } else {
       hideTooltip();

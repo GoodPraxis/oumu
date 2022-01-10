@@ -1,15 +1,18 @@
+import getSettings from './components/settings';
 import './popup.scss';
 
-const settings = document.getElementById('settings');
+const settingsElement = document.getElementById('settings');
 
-Array.from(document.getElementsByTagName('input')).forEach((input) => {
-  chrome.storage.sync.get([input.name], (value) => {
-    // eslint-disable-next-line no-param-reassign
-    input.checked = value[input.name];
+const updateViewSettings = async () => {
+  const settings = await getSettings();
+  Array.from(document.getElementsByTagName('input')).forEach((input) => {
+    if (settings[input.name] === true) {
+      input.setAttribute('checked', 'checked');
+    }
   });
-});
+};
 
-settings?.addEventListener('change', (e) => {
+settingsElement?.addEventListener('change', (e) => {
   const { name, checked, type } = e.target as HTMLInputElement;
   if (type === 'checkbox') {
     const newSetting: { [key: string]: any; } = {};
@@ -17,3 +20,5 @@ settings?.addEventListener('change', (e) => {
     chrome.storage.sync.set(newSetting);
   }
 });
+
+updateViewSettings();

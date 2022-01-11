@@ -2,10 +2,10 @@
 
 ![Logo](extension_content/48-icon.png)
 
-**Oumu** is a simple Chrome extension which replaces English words on websites
-with Japanese equivelants. It uses vocabulary found in popular books like the
-Genki series. The extension allows you to choose which Genki chapters you would
-like to include.
+**Oumu** is a simple, free and open-source Chrome extension which replaces
+English words on websites with Japanese equivelants. It uses vocabulary found
+in popular books like the Genki series. The extension allows you to choose
+which Genki chapters you would like to include.
 
 Note that the extension only replaces single words, not phrases, and several
 words have been ommitted to avoid confusion.
@@ -23,7 +23,8 @@ Facebook and Mastodon!
 
 ### Chrome Web Store
 
-You can install the extension via the [Chrome Web Store](https://chrome.google.com/webstore/detail/uomo/kkhahmacbkjlohaicgacpjnbbcfldljk).
+You can install the extension via the
+[Chrome Web Store](https://chrome.google.com/webstore/detail/oumu/kkhahmacbkjlohaicgacpjnbbcfldljk).
 
 ### Manual installation
 
